@@ -10,3 +10,18 @@ CV contains:
 main page(from /main route),
 about page(from /about route), 
 contact page(from /contact route)
+
+Welcome page:
+![image-1](https://user-images.githubusercontent.com/78197235/108606422-45758700-73e4-11eb-9392-8fc576ef1a48.png)
+
+
+Main page:
+![image (1)-1](https://user-images.githubusercontent.com/78197235/108606442-532b0c80-73e4-11eb-849c-493943a5c95d.png)
+
+
+About page:
+![image (2)-1](https://user-images.githubusercontent.com/78197235/108606463-62aa5580-73e4-11eb-8a28-bd2660944727.png)
+
+
+Contact page:
+![image (3)-1](https://user-images.githubusercontent.com/78197235/108606474-735acb80-73e4-11eb-89ba-4278f81966a3.png)
