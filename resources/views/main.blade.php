@@ -35,7 +35,11 @@
                 <div class="home__data">
                     <h1 class="home__title">Hi,<br>I'am <span class="home__title-color">ZHadyra</span><br> Web Designer</h1>
 
+<<<<<<< HEAD
                     <a href="http://127.0.0.1:8000/contact" class="button">Contact</a>
+=======
+                    <a href=" http://127.0.0.1:8000/contact" class="button">Contact</a>
+>>>>>>> ed19337c3612a5e4af01ac249160dd9cf6c43ebb
                 </div>
 
                 <div class="home__social">
